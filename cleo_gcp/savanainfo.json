@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "savannah-info",
+  "private_key_id": "d8d6c5adcca3354659cb70f9123843ad40367a65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0uadzHDxd+/Zj\nQBLruhYMCa9RRdrYMxGDQq/aRRvsLDnYH1MxViGmauvuIi0jz9UJZp/59nXMO1SV\n/jQQTh3rANv57vKEsbMMBCEPWA8EwnOSJxe5uzD8eYxpKvLsuUUMqKz4z6WZPH1r\nf2OjyYh4YZNWmbz6N4+D+fn+8ME1jggB8561XPWUtffggShzjoB7k+NKoAjjiO8m\ncFPHAwq9i+3boSrMr/t2ZBw688L6g7ui5hylp/jeRztep+S5QKbkkD/qmPthh2Yo\n3AI4gxcSmzsyjfWfrOLB3B2XMpDROv+rZENpSLJHGMw/aT3vf/500QDnK7f8u2QA\n5OziiApTAgMBAAECggEAM1WO1lgdX5bb0CpZlYK4k3fGyD+e3411+oJdQBMkUMvp\nLFYNg/SSv1ocpPopN0RoH3D6nP5gTIBH0QkxUbZWsjN+yHoSghWVpaKgn2KkdXYk\nbM3U4+ljizudYhwUf6BKmENrSot03td7SqcXLuVmccdJmi42Kx7QEa1WUQ+i2eqA\nb2/GjLbURlLwkA9oD/5mS2PB7JXamb9HQT8ErS50kMpyNE/+DlEzrLxK5iza+Ihd\nKDhfJGI5FBtUid6Q3PKK3NKQ66xCNbNUJaXZDiOUG/rde64VmApF2+1AI1nOkDVA\nfBIh7Td91P0TImyNk67Ygvoam8joJsQPjMkSdoN4PQKBgQD0om/3G0LGadreEdWj\nffwcbru7OQma6oeuhdSsiaZ/mrsp5EEuLcgSIOkXLIhZ57aYC1URC/L3YXU8dGQU\nw2Dx5D6fNDCh9/3YRDa1ckAVhNqg07wRj7yRK+s7EwWZ7QtelOoMTu5fXDV20wh4\nBOwpSPK1qGzzFdBD4xunu6VmLwKBgQC9HxxgpFJY9SM+yVBj4xp7u+ZEw63HI534\nUbIFneYKDngiUKnyXwnE2cuxoyMJ5AFvaZYg6ZgbRl7eenIzkp7HmIUXWr3HNyuP\nw4RqhuzW8UFScmidnbPvZNE/XIXGoOn1hUE/aUUKwtt3QpcNWsfsKsfEWnuT7cjf\nLn5Bq+U5HQKBgQCGOgaDKEMISRadGF4HWd4V37BD9vTNOnf+C1J45QIlK8ocHzCg\nXOBVChe67mVWJyxp2nXvZ4YFtES2SgqL1fQAZULy6ZjxlfeDTVJTVn/RDtdCvUqI\nvDwzz0w/Wp2NKqI9YCnXXQuv6REwxHP2HoVR1cPOZr541nQye482BmCnYwKBgDTb\nliXYp39ffGtW/tX8KnG80Z4UhuRqqwM1aikxuZLD+oW0v9sS/vr62HicnPVtuYz3\nGNO4FiBBadCKrpKFf0VP9prRbMtaOx2iSscvUNC+e0Bc46px4lGdfvJTnLwoS1uo\n09SySm64iXhqryc3YTs7tbvGglWVFxhxuS4HqjhtAoGAIFNKdoV2ZRmXHs+DJnB2\nysLKXv6WJROo6/+WbxJ11n5a/C6kvILsvGgwGuEebEbt2TFQQKF5IsavWMZcuvy7\nsfQOSkhQXXjpTpcLM1joHipwvVj0aBEbTO9nOdl8nqpq9dQ6zVUag0fVh7HJ5TEd\nOGM7WfC1TjaZ5DavV4h/VM8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigqueryaccess@savannah-info.iam.gserviceaccount.com",
+  "client_id": "113406177763780519101",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigqueryaccess%40savannah-info.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
